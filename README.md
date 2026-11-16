@@ -89,4 +89,4 @@
 ## Контакты
 
 - Почта: [aseven77@mail.ru](mailto:aseven77@mail.ru)
-- Телеграмм: [https://t.me/raisart](@raisart)
+- Телеграмм: [@raisart](https://t.me/raisart)
